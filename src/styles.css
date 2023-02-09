@@ -1,0 +1,14 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: whitesmoke;
+}
